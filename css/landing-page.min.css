@@ -32,3 +32,8 @@ body{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif}h1,h2,h3,h4,h5
     /* 表头及鼠标移动过 tr 时添加背景 */
     background-color: #f1f1f1;
 }
+
+.top{
+    background:#CCCCCC;
+    cursor:pointer;
+}
