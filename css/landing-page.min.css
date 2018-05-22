@@ -33,7 +33,11 @@ body{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif}h1,h2,h3,h4,h5
     background-color: #f1f1f1;
 }
 
-.top{
+.top {
     background:#CCCCCC;
     cursor:pointer;
+}
+
+#myTable th {
+    white-space: nowrap; /* 強制不換行 */
 }
